@@ -3,7 +3,7 @@
 
 int main()
 {
-    int a;
+    char a;
     while((a = getchar()) != EOF)
     {
         if(a == 'e')
